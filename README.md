@@ -1,4 +1,4 @@
-# CLIP Image Understanding App
+# Image Annotation App
 
 A Streamlit web application that uses OpenAI's CLIP (Contrastive Language-Image Pre-Training) model to understand and analyze images through a fun "2 Lies and 1 Truth" game format.
 
